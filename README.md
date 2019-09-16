@@ -1,8 +1,5 @@
-
-
-#Qui Pham
-#Attempt one
-=======
+# Qui Pham
+# Attempt one
 # Thom Mondeux
-#attempt two
+# Attempt two
 # Max Crandall
